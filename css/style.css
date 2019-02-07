@@ -73,3 +73,10 @@ a:hover {
 	margin-left: 2px;
 	border: 5px solid #ccc;
 }
+
+
+/*/////FOOTER/////*/
+
+footer {
+	clear: both;
+}
