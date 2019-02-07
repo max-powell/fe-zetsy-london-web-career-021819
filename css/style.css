@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 
-header {
+header a {
 	font: 2em Baskerville, serif;
 	color: #98ada6;
 	border-bottom: 1px solid black;
@@ -32,9 +32,6 @@ header a:link {
 	text-decoration: none;
 }
 
-header a:visited {
-	text-decoration: none;
-}
 
 header a:hover {
 	color: #6f7f7a;
