@@ -56,4 +56,8 @@ a {
 	text-decoration: none;
 	color: #1783bb;
 }
+
+a:hover {
+	text-decoration: underline;
+}
 /*/////PRESS/////*/
