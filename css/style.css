@@ -23,7 +23,8 @@ body {
 /* Write all remaining styles here */
 
 header {
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
 }
 
 header a {
