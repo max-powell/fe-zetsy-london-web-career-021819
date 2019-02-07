@@ -22,6 +22,8 @@ body {
 
 /* Write all remaining styles here */
 
+/*/////HEADER/////*/
+
 header {
 	border-bottom: 1px solid #ccc;
 	margin-bottom: 5px;
@@ -41,6 +43,7 @@ header a:hover {
 	color: #6f7f7a;
 }
 
+/*/////MAIN BODY/////*/
 h2 {
 	color: #98ada6;
 }
