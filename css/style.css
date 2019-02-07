@@ -24,7 +24,10 @@ body {
 
 header a {
 	font: 2em Baskerville, serif;
-	color: red;
+}
+
+header a:link {
+	text-decoration: none;
 }
 
 /*/////PRESS/////*/
