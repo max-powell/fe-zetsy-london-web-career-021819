@@ -31,6 +31,10 @@ header a:link {
 	text-decoration: none;
 }
 
+header a:hover {
+	color: #6f7f7a;
+}
+
 p {
 	color: #555;
 }
