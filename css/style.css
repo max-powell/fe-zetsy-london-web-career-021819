@@ -22,10 +22,13 @@ body {
 
 /* Write all remaining styles here */
 
+header {
+	border-bottom: 1px solid black;
+}
+
 header a {
 	font: 2em Baskerville, serif;
 	color: #98ada6;
-	border-bottom: 1px solid black;
 }
 
 header a:link {
