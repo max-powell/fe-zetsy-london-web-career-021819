@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 
-header {
+header div {
 	font: 2em Baskerville, serif;
 	color: red;
 }
