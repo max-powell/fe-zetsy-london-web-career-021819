@@ -60,4 +60,8 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+img {
+	border: 2px solid #98ada6;
+}
 /*/////PRESS/////*/
